@@ -1,5 +1,4 @@
 #Mad Libs Generator Project
-#Mad Libs Generator Project
 
 #Loop back to this point once code finishes
 loop = 1
